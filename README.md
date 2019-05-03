@@ -1,31 +1,31 @@
 # Algorithm Visualizer
 
-> Algorithm Visualizer is an interactive online platform that visualizes algorithms from code.
+> Algorithm Visualizer 是一个在线交互式代码可视化演示算法平台。
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/algorithm-visualizer)
 [![GitHub contributors](https://img.shields.io/github/contributors/algorithm-visualizer/algorithm-visualizer.svg?style=flat-square)](https://github.com/algorithm-visualizer/algorithm-visualizer/graphs/contributors)
 [![GitHub license](https://img.shields.io/github/license/algorithm-visualizer/algorithm-visualizer.svg?style=flat-square)](https://github.com/algorithm-visualizer/algorithm-visualizer/blob/master/LICENSE)
 
-Learning algorithms from text and static images is quite boring. There have been many great websites that view animations of various algorithms though, for us being coders, nothing can be more comprehensible than visualizing the actual working code.
+从文本和静态图像学习算法非常无聊。虽然有许多很棒的网站可以查看各种算法的动画，但对于我们编写程序来说，没有什么比可视化实际工作代码更容易理解了。
 
 [![Screenshot](https://raw.githubusercontent.com/algorithm-visualizer/algorithm-visualizer/master/branding/screenshot.png)](https://algorithm-visualizer.org/)
 
-## Contributing
+## 贡献
 
-If you want to ...
+如果你想 ...
 
-- **Add or improve an algorithm.**
+- **添加或改进算法**
 
-  We have a separate repository for public algorithms. Check out the [contributing guidelines](https://github.com/algorithm-visualizer/algorithms/blob/master/CONTRIBUTING.md) in [`algorithms`](https://github.com/algorithm-visualizer/algorithms) repo.
+  我们有一个单独的公共算法存储库。 检出 [`algorithms`](https://github.com/algorithm-visualizer/algorithms) repo中的 [contributing guidelines](https://github.com/algorithm-visualizer/algorithms/blob/master/CONTRIBUTING.md) .
 
-- **Improve the UI.**
+- **改进 UI**
 
-  Check out the [contributing guidelines](https://github.com/algorithm-visualizer/algorithm-visualizer/blob/master/CONTRIBUTING.md) in this repo. The [directory structure](https://github.com/algorithm-visualizer/algorithm-visualizer/blob/master/PROJECT_DETAILS.md#algorithm-visualizer) might be helpful as well.
+  检出repo下的 [contributing guidelines](https://github.com/algorithm-visualizer/algorithm-visualizer/blob/master/CONTRIBUTING.md)， [directory structure](https://github.com/algorithm-visualizer/algorithm-visualizer/blob/master/PROJECT_DETAILS.md#algorithm-visualizer) 可能也能帮上忙.
 
-- **Revise the specifications of visualization libraries.**
+- **修改可视化库的规范**
   
-  Making changes to the specifications is often followed by updating visualization libraries for every supported language and the affected public algorithms accordingly. It is highly recommended to read the entire [project details](https://github.com/algorithm-visualizer/algorithm-visualizer/blob/master/PROJECT_DETAILS.md) and to raise an issue about your proposal before working on it.
+  对规范进行更改后，通常会为每种支持的语言更新可视化库，并相应地更新受影响的公共算法。强烈建议您阅读整个项目[project details](https://github.com/algorithm-visualizer/algorithm-visualizer/blob/master/PROJECT_DETAILS.md)，并在处理之前提出有关您的提案的问题。
 
-- **Fix issues in a visualization library for a specific langauge.**
+- **修复特定语言的可视化库中的问题**
 
-  Check out the contributing guidelines ([JavaScript](https://github.com/algorithm-visualizer/tracers.js/blob/master/CONTRIBUTING.md), [C++](https://github.com/algorithm-visualizer/tracers.cpp/blob/master/CONTRIBUTING.md), and [Java](https://github.com/algorithm-visualizer/tracers.java/blob/master/CONTRIBUTING.md)) in the repo of the visualization library.
+  检出贡献指南 ([JavaScript](https://github.com/algorithm-visualizer/tracers.js/blob/master/CONTRIBUTING.md)、 [C++](https://github.com/algorithm-visualizer/tracers.cpp/blob/master/CONTRIBUTING.md)、 [Java](https://github.com/algorithm-visualizer/tracers.java/blob/master/CONTRIBUTING.md)) repo中的可视化库。
